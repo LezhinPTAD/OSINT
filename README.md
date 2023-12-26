@@ -8,7 +8,7 @@ How To Install :
 4. git clone https://github.com/LezhinPTAD/OSINT
 5. cd OSINT
 6. python3 absip.py
-====================================
+=============================
 
 # CREDIT
 This osint is using API By AbstractAPI
